@@ -1,4 +1,3 @@
-︠7ac7c40f-27b8-4e8d-8836-1f0514ed54ebs︠
 def Jacobi(a,b):
     if (b <= 0) or ( b%2 == 0):
         return 0
@@ -22,13 +21,3 @@ def Jacobi(a,b):
         return j
     return 0
 Jacobi(18,27)
-︡a3aa9b61-a1e7-40b2-84d4-6ed090e2b4de︡{"stdout":"0\n"}︡{"done":true}
-
-
-
-
-
-
-
-
-
