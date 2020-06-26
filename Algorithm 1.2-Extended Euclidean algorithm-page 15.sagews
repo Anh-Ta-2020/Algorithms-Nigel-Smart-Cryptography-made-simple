@@ -1,4 +1,3 @@
-︠15bf2361-3be1-4610-acec-39a703ec8da9s︠
 def extended_Euclidean(a,b):
     s = 0
     s_prime = 1
@@ -22,13 +21,3 @@ def extended_Euclidean(a,b):
     y = t_prime
     return(d,x,y)
 extended_Euclidean(7,5)
-︡483fdb30-ab02-4f8b-bc67-3e659c1a55a5︡{"stdout":"(1, -2, 3)\n"}︡{"done":true}
-
-
-
-
-
-
-
-
-
