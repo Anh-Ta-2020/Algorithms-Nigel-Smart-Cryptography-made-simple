@@ -1,4 +1,3 @@
-︠737d7923-1453-42de-add2-ab8b8a3fa696s︠
 def Legendre(n,p):
     return pow(n, (p - 1) // 2, p)
 
@@ -27,13 +26,3 @@ def Shanks(a,p):
         b = (b*y) % p
     return x
 Shanks(5,19)
-︡86a8519a-65c5-4b22-8b95-0ee718281300︡{"stdout":"9\n"}︡{"done":true}
-
-
-
-
-
-
-
-
-
