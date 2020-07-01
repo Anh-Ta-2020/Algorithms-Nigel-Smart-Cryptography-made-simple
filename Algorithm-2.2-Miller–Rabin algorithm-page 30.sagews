@@ -1,4 +1,3 @@
-︠7c516ae7-4bec-4823-8034-6cb9fae0448bs︠
 def miller_rabin(n,k):
     s=1
     while (n-1)%(2**s) == 0:
@@ -18,8 +17,6 @@ def miller_rabin(n,k):
             return('Composite',a)
     return('Probably Prime')
 miller_rabin(101,2)
-︡75f1b555-4915-4485-a25c-95203d59be12︡{"stdout":"'Probably Prime'\n"}︡{"done":true}
-
 
 
 
